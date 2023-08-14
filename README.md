@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @guilhermeMiguel123
-- 👀 I’m interested in full stack.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+sobre mim {
+Eatagiario no Setor de Operações da UniEvangélica
+Estudante do curso de engenharia de softwre
+}
 
 <!---
 guilhermeMiguel123/guilhermeMiguel123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
