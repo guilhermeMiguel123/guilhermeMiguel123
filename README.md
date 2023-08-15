@@ -2,11 +2,11 @@
 
 
 ### Olá, eu sou o Guilherme Miguel 👋 
- 📚Estudante de Engenharia de software  
- 💼Estagiário no setor de operações   
- 📝Segundo período   
- 📍Anápolis-Goiás   
- 🏛️Universidade evagélica de Goiás - UniEVANGÉLICA
+📚Estudante de Engenharia de software  
+💼Estagiário no setor de operações   
+📝Segundo período   
+📍 Anápolis - Goiás   
+🏛️Universidade evagélica de Goiás - UniEVANGÉLICA
 
 ### Redes sociais
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-miguel-32977b22b)
