@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)]
 
 
 ### Olá, eu sou o Guilherme Miguel 👋 
@@ -29,7 +29,7 @@
 [![blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=thankyou+for+visite+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=thankyou+for+visite+me)]
 
 
 
