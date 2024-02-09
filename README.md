@@ -4,7 +4,7 @@
 ### Olá, eu sou o Guilherme Miguel 👋 
 📚Estudante de Engenharia de software  
 💼Estagiário no setor de operações   
-📝Segundo período   
+📝trceiro período   
 📍 Anápolis - Goiás   
 🏛️Universidade evagélica de Goiás - UniEVANGÉLICA
 
